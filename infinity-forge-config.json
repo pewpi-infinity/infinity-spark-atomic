@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-spark-atomic",
+  "title": "Spark Atomic",
+  "emoji": "\u269b\ufe0f",
+  "purpose": "Sub-atomic programming. Aluminum oxide brain dust. Bio-energy transfer. Quantum-self-rejecting architecture.",
+  "tools": [
+    "Oxide Brain",
+    "Atom Mapper",
+    "Energy Transfer",
+    "Lattice Program"
+  ],
+  "color": "#00e676",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
